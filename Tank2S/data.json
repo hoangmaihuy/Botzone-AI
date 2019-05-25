@@ -1,0 +1,9 @@
+{"requests":[{"brickfield":[7894699,37967378,111898864],"forestfield":[126058496,3932640,3599],"mySide":0,"steelfield":[256,67151873,262144],"waterfield":[2048,16777220,32768]}],"responses":[]}
+{"action":[7,0],"destroyed_blocks":[3,0,5,8],"destroyed_tanks":[],"final_enemy_positions":[6,8,-2,-2]}
+{"action":[3,-2],"destroyed_blocks":[],"destroyed_tanks":[],"final_enemy_positions":[5,8,-2,-2]}
+{"action":[4,-2],"destroyed_blocks":[3,1,5,7],"destroyed_tanks":[],"final_enemy_positions":[5,8,-2,-2]}
+{"action":[0,-2],"destroyed_blocks":[],"destroyed_tanks":[],"final_enemy_positions":[5,7,-2,-2]}
+{"action":[4,-2],"destroyed_blocks":[3,2,3,4,5,4,5,6],"destroyed_tanks":[],"final_enemy_positions":[5,7,-2,-2]}
+{"action":[0,-2],"destroyed_blocks":[],"destroyed_tanks":[],"final_enemy_positions":[5,6,3,4]}
+{"action":[4,4],"destroyed_blocks":[],"destroyed_tanks":[],"final_enemy_positions":[5,6,3,4]}
+{"action":[-1,0],"destroyed_blocks":[],"destroyed_tanks":[],"final_enemy_positions":[5,6,3,3]}
