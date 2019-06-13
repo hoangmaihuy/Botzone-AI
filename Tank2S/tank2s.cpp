@@ -683,6 +683,7 @@ void InitTank()
             }
         }
     }
+
     // if enemy tank from visible state move into forest then guess enemy tank location from last location
     REP(tank, 2)
     if (tankAlive[1-mySide][tank] && tankX[1-mySide][tank] == -2 && enemyLastX[currentTurn-2][tank] >= 0)
